@@ -1,6 +1,6 @@
 {
 	"name": "lb4-jsonrpc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Loopback 4 JsonRPC Skeleton Project",
 	"keywords": [],
 	"engines": {
